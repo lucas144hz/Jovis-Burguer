@@ -7,7 +7,7 @@ body {
   background-color: #00ff99;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 90px;
-  text-align: center;
+
 }
 
 ul {
@@ -48,6 +48,7 @@ header,
 section {
   max-width: 300px;
   margin: 0 auto;
+  
 }
 
 section h2 {
